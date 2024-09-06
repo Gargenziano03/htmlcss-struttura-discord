@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+/* region header*/
+.container {
+    width: 80%;
+    margin: auto;
+}
+.bg-red {
+    background-color: red;
+}
+.d-flex {
+    display: flex;
+}
+
+.header_1, .header_2, .header_3{
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px dashed;
+    
+}
+
+.header_1{
+    width: 25%;
+    background-color: yellow;
+}
+.header_2 {
+    width: 50%;
+    background-color: yellow;
+
+}
+
+.header_3{
+    width: 25%;
+    background-color: yellow;
+}
+/* region header*/
