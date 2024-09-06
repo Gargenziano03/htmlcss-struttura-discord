@@ -6,8 +6,9 @@
 
 /* region header*/
 .container {
-    width: 80%;
+    width: 65%;
     margin: auto;
+    
 }
 .bg-skyblue {
     background-color: skyblue;
@@ -74,3 +75,48 @@
 }
 /* region main part 1*/
 
+/* region main part 2*/
+.bg-grey{
+    background-color: lightgrey;
+}
+
+.main_p1, .main_p2{
+    padding: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px dashed;
+}
+
+.main_p1{
+    width: 40%;
+    background-color: skyblue;
+}
+
+.main_p2{
+    width: 60%;
+    background-color: pink;
+}
+/* region main part2*/
+
+/* region main part3*/
+.bg-white2{
+    background-color: white;
+}
+
+.main_p3, .main_p4{
+    padding: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px dashed;
+}
+
+.main_p3{
+    width: 60%;
+    background-color: skyblue;
+}
+
+.main_p4{
+    width: 40%;
+    background-color: pink;
+}
+/* region main part3*/
