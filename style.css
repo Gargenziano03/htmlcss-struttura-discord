@@ -9,8 +9,8 @@
     width: 80%;
     margin: auto;
 }
-.bg-red {
-    background-color: red;
+.bg-skyblue {
+    background-color: skyblue;
 }
 .d-flex {
     display: flex;
@@ -39,3 +39,17 @@
     background-color: yellow;
 }
 /* region header*/
+
+
+.bg-blue {
+    background-color: blue;
+}
+
+.header_p2{
+    width: 100%;
+    background-color: yellow;
+    padding: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px dashed;
+}
