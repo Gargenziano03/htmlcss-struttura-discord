@@ -65,7 +65,7 @@
 }
 
 .main_1{
-    width: 60%;
+    width: 80%;
     background-color: skyblue;
 }
 
@@ -120,3 +120,21 @@
     background-color: pink;
 }
 /* region main part3*/
+
+/* region main part4*/
+.bg-grey2{
+    background-color: lightgrey;
+}
+
+.main_p5{
+    padding: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px dashed;
+}
+
+.main_p5{
+    width: 100%;
+    background-color: green;
+}
+/* region main part4*/
